@@ -1,5 +1,5 @@
 ##################################
-# Sudamérica / América del Sur
+# América del Sur / Sudamérica
 
 arg: Argentina
 bra: Brasil
@@ -11,4 +11,7 @@ ecu: Ecuador
 per: Perú
 ven: Venezuela
 bol: Bolivia
+
+
+guy: Guyana
 
