@@ -1,3 +1,9 @@
-# futbol-es  --  Fútbol (Español)
+# World Football
 
-Free open public domain football.db addon - teams, leagues, etc. names in Spanish/Español (es)
+Match fixtures & results for club leagues & cups 
+and internationals incl. world cup, euro(pean championship), and more.
+
+
+
+
+
