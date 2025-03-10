@@ -97,7 +97,7 @@
               PSV 1820 v Zuun  1-0 pen (0-0, 0-0)   @ De Ribaucourt Terrein 1 › Perk
               Paliseulois v Jeunesse Freylangeoise  3-1   @ Paliseul A-Place Des Battys Terrein 1 › Paliseul
               Petigny-Frasnes v Flavion-Morialmé  0-1 pen (1-1, 0-0)   @ Petigny Terrein 1 › Petigny
-              SC Duffel v Ternesse  2-3   @ Gem Sportcentrum Rooienberg Pitch 3 › 2570
+              SC Duffel v Ternesse  2-3   @ Gem Sportcentrum Rooienberg Pitch 3 › Duffel
               Sterrebeek v Tielt-Winge 3000  0-1 pen (3-3, 0-0)   @ Complex Het Zeen › Sterrebeek
               Svelta Melsele II v Eendracht Zele  8-0   @ Campus Svelta Melsele-terrain synthétique › Beveren-Waas
               Voorwaarts Gijzel v Destelbergen  0-4   @ Hogeveld Terrein 1 › Oosterzele
@@ -262,7 +262,7 @@
               Destelbergen v Beauraing  2-1 (0-0)   @ Gemeentelijk Voetbalterrein › Destelbergen
               Perwez v Torpedo Hasselt  1-0 pen (0-0, 0-0)   @ Complex Sp. Perwez › Perwez
               RESC Houffaloise v Racing Mechelen  0-5 (0-1)   @ Stade St Roch › Houffalize
-              Sottegem v Montignies  2-3 (1-1)   @ Jeugdterreinen KSV Sottegem Terrein 1 – Kunstgras › Zottegem
+              Sottegem v Montignies  2-3 (1-1)   @ Jeugdterreinen KSV Sottegem Terrein 1-Kunstgras › Zottegem
               Flénu v Roeselare Daisel  1-3 (1-1)   @ Terrain Rue des Produits › Flénu
               RUS Binche v Fortuna Smeermaas  4-1   @ Stade Aimé Vachaudez › Binche
               Verviers v Biesme  1-0 (0-0)   @ Stade Communal › Dison

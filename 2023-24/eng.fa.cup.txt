@@ -36,7 +36,7 @@
               Paulton Rovers v Thatcham Town  5-1   @ Athletic Field › Paulton, Somerset
               Phoenix Sports v Eastbourne United  1-2   @ Phoenix Sports FC Ground › Bexleyheath, Kent
               Sutton Coldfield Town v Wolverhampton Casuals  3-1   @ Central Ground › Sutton Coldfield, West Midlands
-              Westfield (Surrey) v Fisher  0-0   @ Woking Park › Woking, Surrey
+              Westfield Surrey v Fisher  0-0   @ Woking Park › Woking, Surrey
               Yaxley v Wroxham  0-7   @ Leading Drove › Yaxley, Cambridgeshire
               AFC Dunstable v Newport Pagnell Town  2-1   @ Creasey Park Community Football Centre › Dunstable, Bedfordshire
               Bury Town v Biggleswade United  3-1   @ Atalian Servest Stadium › Bury St Edmunds, Suffolk
@@ -171,7 +171,7 @@
               Kennington v Glebe  1-0   @ Foxbury Avenue › Chiselhurst, Greater London
               Highgate United v Walsall Wood  2-2   @ The Coppice › Solihull, West Midlands
               Athletic Newham v Tooting & Mitcham United  3-3   @ Terence MacMillan Stadium › London
-              Eastwood Community v Kimberley Miners Welfare  3-1   @ Pro:Direct Stadium › Eastwood, Nottinghamshire
+              Eastwood Community v Kimberley Miners Welfare  3-1   @ Pro Direct Stadium › Eastwood, Nottinghamshire
               Lakenheath v Godmanchester Rovers  2-2   @ The Nest Lakenheath › Lakenheath, Suffolk
               Milton Keynes Irish v Dunstable Town  3-1   @ The Irish Centre › Milton Keynes
               Mousehole v Ilfracombe Town  4-1   @ Trungle Parc › Paul, Cornwall
@@ -219,7 +219,7 @@
               Pontefract Collieries v Birtley Town  3-0   @ The Regional Electrical Service Ltd Stadium › Pontefract, West Yorkshire
               Clacton v Real Bedford  2-2   @ The Rush Green Bowl › Clacton-on-Sea, Essex
               Barton Town Old Boys v Grimsby Borough  1-3   @ Easy Buy Stadium › Barton-upon-Humber, Lincolnshire
-              Ashford Town (Middlesex) v Uckfield Town  1-0   @ The Robert Parker Stadium › Stanwell, Surrey
+              Ashford Town Middlesex v Uckfield Town  1-0   @ The Robert Parker Stadium › Stanwell, Surrey
     20.00     Wythenshawe Amateurs v Campion  2-1   @ Selco Builders Warehouse Community Stadium › Manchester, Cheshire
 » Extra Preliminary Round Replays
   Tue Aug 8
@@ -236,7 +236,7 @@
               Erith Town v Hassocks  4-0   @ Bayliss Avenue › London
               Eynesbury Rovers v Ely City  2-3 aet   @ The Alfred Hall Memorial Ground › Eynesbury, St. Neots
               Fakenham Town v St Neots Town  2-1 aet   @ Clipbush Park › Fakenham, Norfolk
-              Fisher v Westfield (Surrey)  2-5   @ St Pauls’ Sports Ground › London
+              Fisher v Westfield Surrey  2-5   @ St Pauls' Sports Ground › London
               Godmanchester Rovers v Lakenheath  3-5   @ Bearscroft Lane › Godmanchester, Cambridgeshire
               Blackfield & Langley v Oldland Abbotonians  3-2 aet   @ Gang Warily Community & Recreation Centre › Blackfield, Hampshire
               Hanley Town v Hereford Pegasus  2-1   @ Payaro Stadium › Hanley
@@ -381,7 +381,7 @@
               Padiham v Clitheroe  2-5   @ Ruby Civil Arena › Padiham, Lancashire
               Penistone Church v Prestwich Heys  0-2   @ Church View Road › Barnsley
               Penrith AFC v Consett  0-3   @ Belle Vue Park › Consett, County Durham
-              Redhill v Ashford Town (Middlesex)  1-0   @ Kiln Brow › Redhill, Surrey
+              Redhill v Ashford Town Middlesex  1-0   @ Kiln Brow › Redhill, Surrey
               Rugby Town v Newcastle Town  5-1   @ Butlin Road › Rugby, Warwikshire
               Sawbridgeworth Town v Saffron Walden Town  2-1   @ Crofters End Stadium › Sawbridgeworth, Hertfordshire
               Shaftesbury Town v Hamble Club  5-2   @ Cockrams Ground › Shaftesbury, Dorset
@@ -406,7 +406,7 @@
               St Blazey v Mousehole  1-5   @ Blaise Park › St Blazey, Cornwall
               Shifnal Town FC v Worcester Raiders  4-1   @ The Acoustafoam Stadium › Shifnal, Shropshire
               Newark Flowserve v Harborough Town  0-4   @ Hawton Lane › Newark, Nottinghamshire
-              Athletic Newham v Westfield (Surrey)  0-3   @ Terence MacMillan Stadium › London
+              Athletic Newham v Westfield Surrey  0-3   @ Terence MacMillan Stadium › London
               Jersey Bulls v Knaphill  1-1   @ Springfield Stadium › Jersey, Channel Islands
               Buckhurst Hill v Northwood  0-1   @ Myrak Park › Buckhurst Hill, Essex
               Darlaston Town v Hednesford Town  3-0   @ The Paycare Ground › Darlaston, West Midlands
@@ -526,13 +526,13 @@
               Hungerford Town v Petersfield Town  4-0 (3-0)   @ Bulpit Lane › Hungerford, Berkshire
               AFC Stoneham v Basingstoke Town  5-4 (1-3)   @ Stoneham Lane Football Complex › Eastleigh, Hampshire
               Anstey Nomads v Hanley Town  3-0 (3-0)   @ Cropston Road › Leicester, Leicestershire
-              Ascot United v Westfield (Surrey)  1-0 (0-0)   @ Ascot Racecourse › Ascot, Berkshire
+              Ascot United v Westfield Surrey  1-0 (0-0)   @ Ascot Racecourse › Ascot, Berkshire
               Binfield v Northwood  2-2 (0-0)   @ Stubbs Lane › Binfield
               Bishop Auckland v West Auckland Town  0-0 (0-0)   @ Heritage Park › Bishop Auckland, County Durham
               Bishop's Cleeve v Bristol Manor Farm  2-3 (0-3)   @ Kayte Lane › Bishop's Cleeve, Gloucestershire
               Charnock Richard v Runcorn Linnets  2-2 (1-0)   @ Mossie Park › Charnock Richard
               Chatham Town v Ramsgate  1-5 (0-2)   @ Bauvill Stadium › Chatham, Kent
-              Consett v Bradford (Park Avenue)  0-2 (0-1)   @ Belle Vue Park › Consett, County Durham
+              Consett v Bradford Park Avenue  0-2 (0-1)   @ Belle Vue Park › Consett, County Durham
               Eastbourne United v Epsom & Ewell FC  2-1 (0-0)   @ The Oval › Eastbourne, East Sussex
               Guisborough Town v Atherton Collieries  0-4 (0-2)   @ King George V Ground › Guisborough, North Yorkshire
               Hadley v Steyning Town  0-0 (0-0)   @ Hadley Sports Ground › London
@@ -655,7 +655,7 @@
               Wimborne Town v Torquay  0-3 (0-2)   @ The Cuthbury Stadium › Wimborne Minster, Dorset
               Boston United v Leamington  4-0 (2-0)   @ The Jakemans Community Stadium › Boston, Lincolnshire
               Chippenham Town v Hungerford Town  1-4 (0-1)   @ Hardenhuish Park › Chippenham, Wiltshire
-              Blyth Spartans v Bradford (Park Avenue)  1-1 (1-0)   @ Croft Park › Blyth, Northumberland
+              Blyth Spartans v Bradford Park Avenue  1-1 (1-0)   @ Croft Park › Blyth, Northumberland
               Gloucester City v AFC Totton  0-3 (0-1)   @ New Meadow Park › Gloucester, Gloucestershire
               Kettering Town v Sporting Khalsa  1-0 (1-0)   @ Latimer Park › Kettering, Northamptonshire
               King's Lynn Town v Aveley  0-0 (0-0)   @ The Walks › King's Lynn, Norfolk
@@ -680,7 +680,7 @@
   Mon Sep 18
     19.45     Aveley v King's Lynn Town  4-0 (1-0)   @ Parkside Stadium › Aveley, Essex
               Redditch United v Peterborough Sports  1-3 (1-1)   @ The Valley Stadium › Redditch, Worcestershire
-              Bradford (Park Avenue) v Blyth Spartans  1-3 aet   @ Horsfall Stadium › Bradford, West Yorkshire
+              Bradford Park Avenue v Blyth Spartans  1-3 aet   @ Horsfall Stadium › Bradford, West Yorkshire
               Chelmsford City v Ware  2-1 (1-1)   @ The EMG Inspire Stadium › Chelmsford, Essex
   Tue Sep 19
     19.45     Braintree v Canvey Island  3-1 aet   @ Dunmow Group Stadium › Braintree, Essex

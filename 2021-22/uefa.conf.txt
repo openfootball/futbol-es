@@ -28,7 +28,7 @@
               Milsami Orhei (MDA) v FK Sarajevo (BIH)  0-0 (0-0)   @ Complexul Sportiv Raional › Orhei
     19.45     Glentoran (NIR) v The New Saints (WAL)  1-1 (0-1)   @ The Oval › Belfast
     20.00     FH hafnarfjordur (ISL) v Sligo Rovers (IRL)  1-0 (0-0)   @ Kaplakrikavöllur › Hafnarfjörður
-              Bala Town (WAL) v Larne (NIR)  0-1 (0-1)   @ Park Hall Stadium › Oswestry / Croesoswallt, Shropshire
+              Bala Town (WAL) v Larne (NIR)  0-1 (0-1)   @ Park Hall Stadium › Oswestry/Croesoswallt, Shropshire
               Fehérvár FC (HUN) v Ararat (ARM)  1-1 (0-0)   @ MOL Aréna Sóstó › Székesfehérvár
               NK Domzale (SVN) v Swift Hesperange (LUX)  1-0 (0-0)   @ Športni Park › Domžale
               Partizani (ALB) v Sfîntul Gheorghe (MDA)  5-2 (2-1)   @ Elbasan Arena › Elbasan
@@ -44,7 +44,7 @@
     21.00     Siroki Brijeg (BIH) v Vllaznia Shkodër (ALB)  3-1 (1-0)   @ Stadion Pecara › Široki Brijeg
     21.45     Stjarnan (ISL) v Bohemians (IRL)  1-1 (1-0)   @ Samsung völlurinn › Garðabær
   Tue Jul 13
-    18.45     Newtown AFC (WAL) v Dundalk (IRL)  0-1 (0-0)   @ Park Hall Stadium › Oswestry / Croesoswallt, Shropshire
+    18.45     Newtown AFC (WAL) v Dundalk (IRL)  0-1 (0-0)   @ Park Hall Stadium › Oswestry/Croesoswallt, Shropshire
   Thu Jul 15
     15.00     Ararat (ARM) v Fehérvár FC (HUN)  2-0 (1-0)   @ Gyumri City Stadium › Gyumri
     17.00     Struga (MKD) v FK Liepaja (LVA)  1-4 (0-1)   @ Trening centar Petar Miloševski › Skopje
@@ -61,7 +61,7 @@
               Dila (GEO) v Žilina (SVK)  2-1 (0-1)   @ Stadioni Tengiz Burjanadze › Gori
               Sligo Rovers (IRL) v FH hafnarfjordur (ISL)  1-2 (0-1)   @ The Showgrounds › Sligo
               Sfîntul Gheorghe (MDA) v Partizani (ALB)  2-3 (2-2)   @ Complexul Sportiv Raional › Orhei
-    19.15     The New Saints (WAL) v Glentoran (NIR)  2-0 (2-0)   @ Park Hall Stadium › Oswestry / Croesoswallt, Shropshire
+    19.15     The New Saints (WAL) v Glentoran (NIR)  2-0 (2-0)   @ Park Hall Stadium › Oswestry/Croesoswallt, Shropshire
     20.00     Laci (ALB) v Mladost Lješkopolje (MNE)  3-0 aet (1-0, 0-0)   @ Elbasan Arena › Elbasan
               Gzira United (MLT) v UE Sant Julia (AND)  5-3 pen (1-1, 1-1, 0-1)   @ MFA Centenary Stadium › Ta'Qali
               Puskas Academy (HUN) v Inter Turku (FIN)  2-0 (1-0)   @ Puskás Aréna › Budapest
@@ -71,7 +71,7 @@
     20.45     La Fiorita (SMR) v Birkirkara (MLT)  1-1 (0-0)   @ Stadio Olimpico di Serravalle › Serravalle
               Dečić (MNE) v Drita (KOS)  0-1 (0-0)   @ Stadion Pod Goricom › Podgorica
               Bohemians (IRL) v Stjarnan (ISL)  3-0 (1-0)   @ Aviva Stadium › Dublin
-              Spartak Trnava (SVK) v Mosta (MLT)  2-0 (2-0)   @ CITY ARENA – Štadión Antona Malatinského › Trnava
+              Spartak Trnava (SVK) v Mosta (MLT)  2-0 (2-0)   @ CITY ARENA-Štadión Antona Malatinského › Trnava
     21.00     Breidablik (ISL) v Racing FC Union Luxembourg (LUX)  2-0 (0-0)   @ Kópavogsvöllur › Kópavogur
               Slask Wroclaw (POL) v Paide (EST)  2-0 (1-0)   @ Stadion Miejski › Wrocław
               Coleraine FC (NIR) v Velež (BIH)  1-2 (1-0)   @ Mourneview Park › Lurgan
@@ -108,7 +108,7 @@
               Dinamo Batumi (GEO) v Bate Borisov (BLR)  0-1 (0-0)   @ Batumi Arena › Batumi
               CSKA Sofia (BUL) v FK Liepaja (LVA)  0-0 (0-0)   @ Stadion Bâlgarska Armija › Sofia
               Lokomotiv Plovdiv (BUL) v Slovácko (CZE)  1-0 (0-0)   @ Stadion Lokomotiv › Plovdiv
-              Spartak Trnava (SVK) v Sepsi OSK Sfantu Gheorghe (ROU)  0-0 (0-0)   @ CITY ARENA – Štadión Antona Malatinského › Trnava
+              Spartak Trnava (SVK) v Sepsi OSK Sfantu Gheorghe (ROU)  0-0 (0-0)   @ CITY ARENA-Štadión Antona Malatinského › Trnava
               Laci (ALB) v CS Universitatea Craiova (ROU)  1-0 (1-0)   @ Elbasan Arena › Elbasan
               Gzira United (MLT) v HNK Rijeka (CRO)  0-2 (0-0)   @ MFA Centenary Stadium › Ta'Qali
               Petrocub (MDA) v Sivasspor (TUR)  0-1 (0-1)   @ Stadionul Zimbru › Chişinău
@@ -169,7 +169,7 @@
               Slovácko (CZE) v Lokomotiv Plovdiv (BUL)  2-3 pen (1-0, 1-0, 1-0)   @ Městský fotbalový stadion Miroslava Valenty › Uherské Hradiště
               Maccabi Haifa (ISR) v Dinamo Tbilisi (GEO)  5-1 (2-1)   @ Sammy Ofer Stadium › Haifa
               Ashdod (ISR) v Qarabag (AZE)  0-1 (0-1)   @ Yud-Alef Stadium › Ashdod
-    19.15     The New Saints (WAL) v Kauno Žalgiris (LTU)  5-1 (3-0)   @ Park Hall Stadium › Oswestry / Croesoswallt, Shropshire
+    19.15     The New Saints (WAL) v Kauno Žalgiris (LTU)  5-1 (3-0)   @ Park Hall Stadium › Oswestry/Croesoswallt, Shropshire
     19.30     Maccabi Tel Aviv (ISR) v Sutjeska (MNE)  3-1 (2-0)   @ Bloomfield Stadium › Tel-Aviv
               Fola Esch (LUX) v Shakhter Soligorsk (BLR)  1-0 (0-0)   @ Stade Émile Mayrisch › Esch-sur-Alzette
               Breidablik (ISL) v Austria Vienna (AUT)  2-1 (2-0)   @ Kópavogsvöllur › Kópavogur
@@ -216,7 +216,7 @@
               Prishtina (KOS) v Bodo/Glimt (NOR)  2-1 (1-1)   @ Stadiumi Fadil Vokrri › Pristina
               Kolos Kovalivka (UKR) v Shakhter Karagandy (KAZ)  0-0 (0-0)   @ Stadion Kovalivka › Kovalivka
               Pacos Ferreira (POR) v Larne (NIR)  4-0 (1-0)   @ Estádio da Capital do Móvel › Paços de Ferreira
-    20.15     Spartak Trnava (SVK) v Maccabi Tel Aviv (ISR)  0-0 (0-0)   @ CITY ARENA – Štadión Antona Malatinského › Trnava
+    20.15     Spartak Trnava (SVK) v Maccabi Tel Aviv (ISR)  0-0 (0-0)   @ CITY ARENA-Štadión Antona Malatinského › Trnava
     20.30     FC Luzern (SUI) v Feyenoord (NED)  0-3 (0-2)   @ swissporarena › Luzern
               Gent (BEL) v Rīgas FS (LVA)  2-2 (0-2)   @ GHELAMCO-arena › Gent
     20.45     Hibernian (SCO) v HNK Rijeka (CRO)  1-1 (0-0)   @ Easter Road Stadium › Edinburgh

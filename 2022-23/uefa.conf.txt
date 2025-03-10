@@ -29,7 +29,7 @@
               Floriana (MLT) v Petrocub (MDA)  0-0 (0-0)   @ MFA Centenary Stadium › Ta'Qali
               Sfîntul Gheorghe (MDA) v Mura (SVN)  1-2 (0-0)   @ Stadionul Zimbru › Chişinău
               Olimpija Ljubljana (SVN) v FC Differdange 03 (LUX)  1-1 (0-1)   @ Stadion Stožice › Ljubljana
-    20.00     Bala Town (WAL) v Sligo Rovers (IRL)  1-2 (1-1)   @ Park Hall Stadium › Oswestry / Croesoswallt, Shropshire
+    20.00     Bala Town (WAL) v Sligo Rovers (IRL)  1-2 (1-1)   @ Park Hall Stadium › Oswestry/Croesoswallt, Shropshire
               Dinamo Minsk (BLR) v Dečić (MNE)  1-1 (1-1)   @ DG Arena › Podgorica
               Shkendija (MKD) v Ararat (ARM)  2-0 (2-0)   @ Toše Proeski Arena › Skopje
               Fola Esch (LUX) v Tre Fiori (SMR)  0-1 (0-0)   @ Stade Émile Mayrisch › Esch-sur-Alzette
@@ -58,7 +58,7 @@
               Dila (GEO) v KuPS (FIN)  0-0 (0-0)   @ Stadioni Tengiz Burjanadze › Gori
               Riga (LVA) v Derry City (IRL)  2-0 (1-0)   @ Stadions Skonto › Riga
               B36 Torshavn (FRO) v Borac Banja Luka (BIH)  4-3 pen (3-1, 3-1, 1-0)   @ Gundadalur › Tórshavn, Streymoy
-    19.15     Newtown AFC (WAL) v HB (FRO)  4-2 pen (2-1, 2-1, 2-0)   @ Park Hall Stadium › Oswestry / Croesoswallt, Shropshire
+    19.15     Newtown AFC (WAL) v HB (FRO)  4-2 pen (2-1, 2-1, 2-0)   @ Park Hall Stadium › Oswestry/Croesoswallt, Shropshire
     19.30     FC Differdange 03 (LUX) v Olimpija Ljubljana (SVN)  1-2 aet (1-1, 1-0)   @ Stade Parc des Sports › Differdange
     20.00     Partizani (ALB) v Saburtalo (GEO)  4-5 pen (0-1, 0-1, 0-0)   @ Air Albania Stadium › Tirana
               Sligo Rovers (IRL) v Bala Town (WAL)  4-3 pen (0-1, 0-1, 0-1)   @ The Showgrounds › Sligo
@@ -120,7 +120,7 @@
               Aris Thessalonikis (GRE) v FC Gomel (BLR)  5-1 (3-1)   @ Stadio Harilaou Kleánthis Vikelídis › Thessaloníki
     20.30     AZ Alkmaar (NED) v Tuzla City (BIH)  1-0 (1-0)   @ AFAS Stadion › Alkmaar
               HNK Rijeka (CRO) v Djurgardens IF (SWE)  1-2 (1-1)   @ Stadion HNK Rijeka › Rijeka
-              Spartak Trnava (SVK) v Newtown AFC (WAL)  4-1 (3-1)   @ CITY ARENA – Štadión Antona Malatinského › Trnava
+              Spartak Trnava (SVK) v Newtown AFC (WAL)  4-1 (3-1)   @ CITY ARENA-Štadión Antona Malatinského › Trnava
               Velež (BIH) v Hamrun Spartans (MLT)  0-1 (0-1)   @ Stadion Grbavica › Sarajevo
     20.45     St Patrick's Athl. (IRL) v Mura (SVN)  1-1 (0-1)   @ Richmond Park › Dublin
               Motherwell (SCO) v Sligo Rovers (IRL)  0-1 (0-1)   @ Fir Park › Motherwell
@@ -132,7 +132,7 @@
               Guimaraes (POR) v Puskas Academy (HUN)  3-0 (2-0)   @ Estádio Dom Afonso Henriques › Guimarães
   Tue Jul 26
     18.00     Lincoln Red Imps FC (GIB) v FK Tobol Kostanay (KAZ)  0-1 (0-1)   @ Victoria Stadium › Gibraltar
-    19.15     The New Saints (WAL) v Vikingur Reykjavik (ISL)  0-0 (0-0)   @ Park Hall Stadium › Oswestry / Croesoswallt, Shropshire
+    19.15     The New Saints (WAL) v Vikingur Reykjavik (ISL)  0-0 (0-0)   @ Park Hall Stadium › Oswestry/Croesoswallt, Shropshire
     20.00     Ballkani (KOS) v La Fiorita (SMR)  6-0 (2-0)   @ Stadiumi Fadil Vokrri › Pristina
   Wed Jul 27
     17.00     Inter Club d'Escaldes (AND) v CFR 1907 Cluj (ROU)  1-1 (1-0)   @ Estadi Comunal d'Andorra la Vella › Andorra la Vella
@@ -148,7 +148,7 @@
     18.45     IF Elfsborg (SWE) v Molde (NOR)  1-2 (1-0)   @ Borås Arena › Borås
               Maccabi Netanya (ISR) v Istanbul Basaksehir (TUR)  0-1 (0-1)   @ Netanya Stadium › Netanya
     19.00     Lillestrom (NOR) v SJK (FIN)  5-2 (2-1)   @ Åråsen Stadion › Kjeller
-              Newtown AFC (WAL) v Spartak Trnava (SVK)  1-2 (1-0)   @ Park Hall Stadium › Oswestry / Croesoswallt, Shropshire
+              Newtown AFC (WAL) v Spartak Trnava (SVK)  1-2 (1-0)   @ Park Hall Stadium › Oswestry/Croesoswallt, Shropshire
               Djurgardens IF (SWE) v HNK Rijeka (CRO)  2-0 (0-0)   @ Tele2 Arena › Stockholm
               Slavia Praha (CZE) v St Joseph S Fc (GIB)  7-0 (4-0)   @ Fortuna Arena › Praha
               Olimpija Ljubljana (SVN) v Sepsi OSK Sfantu Gheorghe (ROU)  2-4 pen (2-0, 2-0, 0-0)   @ Stadion Stožice › Ljubljana
@@ -195,7 +195,7 @@
   Thu Aug 4
     18.00     Rīgas FS (LVA) v Hibernians (MLT)  1-1 (0-1)   @ Daugavas Stadionā › Riga
               KuPS (FIN) v BSC Young Boys (SUI)  0-2 (0-2)   @ Veritas Stadion › Åbo
-    18.30     Spartak Trnava (SVK) v Raków Częstochowa (POL)  0-2 (0-2)   @ CITY ARENA – Štadión Antona Malatinského › Trnava
+    18.30     Spartak Trnava (SVK) v Raków Częstochowa (POL)  0-2 (0-2)   @ CITY ARENA-Štadión Antona Malatinského › Trnava
     18.45     Paide (EST) v Anderlecht (BEL)  0-2 (0-2)   @ A. Le Coq Arena › Tallinn
     19.00     Lillestrom (NOR) v Antwerp (BEL)  1-3 (1-1)   @ Åråsen Stadion › Kjeller
               Molde (NOR) v Kisvarda FC (HUN)  3-0 (0-0)   @ Aker Stadion › Molde

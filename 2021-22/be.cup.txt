@@ -1,0 +1,365 @@
+= Belgium | Cup 2021/22
+
+  # Date       Sun Jul/25 2021 - Mon Apr/18 2022 (267d)
+  # Teams      312
+  # Matches    313
+
+  # Note - All times in Europe/Brussels
+
+» Preliminary Round
+  Sun Jul 25 2021
+    16.00     Bossière v Fernelmont-Hemptinne  1-0 pen (2-2, 0-0)   @ Complexe sportif de Bossière › Bossière
+  Sun Jul 25
+    16.00     Helson Helchteren v Wezel  2-3   @ Sportcomplex Sportstraat › Houthalen-Helchteren
+              Tollembeek v Dendermonde  0-3   @ Terrein Markedal › Galmaarden
+» 1st Round
+  Sat Jul 31
+    16.00     Renaissance Mons 44 II v Stockel  1-0   @ Stade Charles Tondreau › Mons
+    18.00     Adegem v Houthulst  1-5   @ Terrein Waleweg › Maldegem
+              Sint-Dymphna v Zwarte Leeuw  3-4   @ Sportpark St. Dimpna › Geel
+    19.00     Oppagne-Wéris v Spa  [cancelled]   @ Terrain d'Oppagne › Wéris
+              Glabbeek-Zuurbemde v Sart-Bernard  0-1   @ De Kuip Terrain 1 › Glabbeek
+              Betekom v Punt-Larum  2-0   @ Grote Baan › Betekom
+              Rumbeke v Sassport Boezinge  2-1   @ Terrein KSV Rumbeke › Rimbeke
+    19.30     Schelde Serskamp v Avanti  [cancelled]   @ Stade Wichelen › Wichelen
+              Esperanza Pelt v Verbroedering Lommel  3-0   @ Gemeentelijk Stadion De Roosen › Neerpelt
+              Svelta Melsele v Berlare  5-0   @ KVK Svelta Melsele › Melsele
+              Torhout v Oostnieuwkerke  0-1 pen (1-1, 0-0)   @ Complex De Velodroom › Torhout
+              Turnhout v Torpedo Hasselt  3-2   @ Stadsparkstadion › Turnhout
+              Witgoor Sport v St-Jozef Rijkevorsel  5-0   @ Sportpark De Wouwer › Dessel
+              Berlaar-Heikant v Herselt  1-0   @ Terrein FC Berlaar-Heikant › Berlaar
+              Antoing v Tempo Overijse  0-4   @ Stade d'Antoing › Antoing
+              Snef-Tyber v PAC Buzet  1-0   @ Terrain Chemin De Maffle › Seneffe
+              Achel v De Kempen  0-2   @ Terrein Achel VV › Hamont-Achel
+              KFC Eksel v Lummen  3-0   @ Sparrenstadion › Eksel
+    20.00     Marloie Sport v La Roche  4-0   @ Terrain de Marloie › Marche-en-Famenne
+              Saint-Hubert v Habay-la-Neuve  1-6   @ Terrain RFC Saint-Hubert › Saint-Hubert
+              Football Club Schaerbeek v Racing Mechelen  1-4   @ Stade Renan › Schaerbeek
+  Sun Aug 1
+    15.00     Jeunesse Freylangeoise v Aywaille  0-2   @ Terrain de Freylange › Arlon
+              FC Tilleur v Racing Vaux  3-1   @ Stade de Buraufosse › Saint-Nicolas
+              Herseaux v Havinnes  1-0 pen (2-2, 0-0)   @ Terrain RUS Herseautoise › Herseaux
+              Montigny v Rapid Symphorinois  0-4   @ Bois Frion Terrain 1 › Montigny-Le-Tilleul
+              Nismes v Flavion-Morialmé  2-3   @ Terrain de Nismes › Nismes
+    16.00     Aische v Arquet  3-2   @ Stade René Bertrand › Aische-en-Refail
+              Albert Quévy-Mons v BX Brussels  8-1   @ Stade Charles Tondreau › Mons
+              Andennais v Gosselies Sports  1-0 pen (1-1, 0-0)   @ Stade Julien Pappa › Andenne
+              Ardennen v Voorde Appelterre  1-0 pen (2-2, 0-0)   @ Terrein Hollebeek › Etikhove
+              Belœil v AFC Evere  2-1   @ Stade Communal de  Quevaucamps › Quevaucamps
+              Berg en Dal v Vorselaar  2-0   @ Kattenstadion › Meerhout
+              Beringen v Wezel  1-2   @ Sportpark De Motbemden › Beringen
+              Bertem-Leefdaal v Kosova Schaerbeek  1-3   @ Terrain Berteem Leefdaal › Leefdaal
+              Bornem v Berchem Sport II  2-1   @ Stadion Het Breeven › Bornem
+              Braine v Léopold  3-1   @ Stade Gaston Reiff › Eigenbrakel
+              Crossing Schaerbeek v Union Lasne-Ohain  1-0 pen (1-1, 0-0)   @ Stade Renan › Schaerbeek
+              Diest v Sport Koersel  7-1   @ Stedelijk Sportstadion De Warande › Diest
+              Eendracht Wervik v Eendracht Aalter  2-1   @ Sportcentrum Virovios Terrein 1 › Wervik
+              Elene-Grotenberge v Haasdonk  5-0   @ Terrain Grotenberge › Grotenberge
+              Entité Manageoise v Hoeilaart  0-1 pen (0-0, 0-0)   @ Stade du Scailmont › Manage
+              Excelsior Mariakerke v Dendermonde  2-1   @ Excelsior Park › Gent
+              FC Lebbeke v Latem  2-0   @ Sportcomplex Lebbeke › Lebbeke
+              Herstal v Elsautoise  3-1   @ Complexe Emile Muraille › Herstal
+              Hoboken v Schelle Sport  1-0   @ Stadion De Visputten › Hoboken
+              Hornu v Ostiches  0-3   @ Stade Barbet Terrain 1 › Boussu
+              Huy v Melreux  6-2   @ Complexe Sportif Tihange 2 Synthétique › Tihange
+              Jodoigne v Montignies  3-1   @ Stade de la Cabouse › Jodoigne
+              Jong Zulte v Voorwaarts Zwevezele II  1-0 pen (1-1, 0-0)   @ Waalmeers Terrain 1 › Zulte
+              Mormont v Saint-Louis-Saint-Léger  6-0   @ Complexe RES Melreux-Hotton › Hotton
+              Nijlen v Noordstar Noorderwijk  12-1   @ KFC Nijlen A-terrein › Nijlen
+              Oostduinkerke v Estaimbourg  1-0 pen (2-2, 0-0)   @ Henri Houtsaegerstadion › Koksijde
+              Oostkamp v RC Lauwe  4-0   @ Complex KSV Oostkamp › Oostkamp
+              Raeren-Eynatten v Hombourg  2-0   @ Terrain de Raeren › Raeren
+              Rhodienne-De Hoek v Etterbeek  3-1   @ Wauterbosstadion › Sint-Genesius-Rode
+              Sint-Job v Grimbergen  1-0 pen (1-1, 0-0)   @ Peter Benoitstadion › Sint-Job-in 't-Goor
+              Stade Everois v K. Kontich  0-1 pen (2-2, 0-0)   @ Terrein Parc Saint-Vincent › Evere
+              Tournai v Racing Waregem  0-1   @ Stade Luc Varenne › Kain
+              VW Hamme v Wambeek  1-0   @ Gemeentelijk Stadion Vigor Wuitens Hamme › Hamme
+              Wanze/Bas-Oha v Chevetogne  1-2   @ Stade Communal Louis Manne › Bas-Oha
+              Wellen v Sart-Tilman  5-0   @ KVK Wellen Sportcomplex › Wellen
+              Wolvertem Merchtem v Wemmel  2-1   @ Frans Lathouwersstadion › Wolvertem
+              Sint-Niklaas v Eendracht Zele  2-1   @ Sportcentrum Meesterstraat › Nieuwkerken-Waas
+              Genappe v Ixelles  3-0   @ Terrein R.C.S Ways-Genappe › Genappe
+              Hoegaarden-Outgaarden v Bossière  3-1   @ Terrein De Struysvogel › Hoegaarden
+              Sporting Bruxelles v Kruibeke  2-0   @ Complexe Sportif de Neder-Over-Heembeek › Bruxelles
+              Binche v Vacresse  8-0   @ Stade Aimé Vachaudez › Binche
+              Aubel v Weerstand Koersel  1-0 pen (1-1, 0-0)   @ Stade Jean-Marie Doome › Aubel
+              Espoir Minerois v Kabouters Opglabbeek  2-1   @ Stade Marcel Baguette › Thimister-Clermont
+              JS Fizoise v Sprimont  0-2   @ Terreinen Rue Magritte › Fize-Fontaine
+              Rechain v Schoonbeek-Beverst  1-0 pen (2-2, 0-0)   @ Terrain Entente Rechaintoise › Petit-Rechain
+              Sprimont II v Rochefort  0-3   @ Complexe Banneux FC › Sprimont
+              Bregel Sport v Stade Disonais  3-1   @ Terrain de Bregel Sports › Genk
+              Gouvy v Messancy  0-1 pen (1-1, 0-0)   @ Terrain de Gouvy › Gouvy
+              Lorraine Arlon v FC Bercheux  4-1   @ Stade du FC Jeunesse Lorraine Arlonaise › Arlon
+              Jeunesse Tamines v Malonne  6-1   @ Arthur Michaux Terrain 2 › Tamines
+              Denderhoutem v Eeklo Meetjesland  4-0   @ Den Deysel › Haaltert
+              Excelsior Zedelgem v Wielsbeke  0-1 pen (3-3, 0-0)   @ Sportstadion De Groene Meersen › Zedelgem
+              Wevelgem City v Obigies  5-1   @ Stadion Menenstraat › Wevelgem
+              Bastogne v Meix-Devant-Virton  1-0 pen (1-1, 0-0)   @ Stade des Récollets › Bastogne
+              Broechem v Saint-Josse  0-1 pen (0-0, 0-0)   @ Terrein KFC Broechem › Broechem
+              Crossing Vissenaken v Rhisnes  1-0 pen (1-1, 0-0)   @ St.-Pietersstraat Terrain 1 › Vissenaken
+              Diksmuide v Anzegem  2-1   @ Sportpark de Pluimen › Diksmuide
+              Entente Blegnytoise II v Richelle United  0-4   @ Rue De Trembleur Terrain 2 › Blegny
+              Excelsior Mariaburg v Herent  1-3   @ Terrein MARIABURG › Brasschaat
+              Galmaarden v Jong Lede  0-2   @ Galmaarden Terrain 1 › Galmaarden
+              Olympic Burst v Erpe-Mere United  1-2   @ Complex Oudendijk › Burst
+              Ranst v Willebroekse  3-1   @ KFC Ranst Terrain 1 › Ranst
+              Rupelmonde v Rapid Leest  0-4   @ Pierre Bressinck Stadion › Rupelmonde
+              Sint-Denijs Sport v Lochristi  0-6   @ Klein Kouterken Terrain 1 › Sint-Denijs-Westrem
+              Sint-Jozef Londerzeel v Eppegem  1-6   @ Complex Den Dries › Eppegem
+              Standaard Meerbeek v VC Groot Dilbeek  2-0   @ Wijnegemhofstraat Terrain 1 › Meerbeek
+              Ster-Francorchamps II v Huccorgne  3-1   @ Stade Maurice Sacré › Stavelot
+              TSC Proven v Lauwe  1-3   @ Tsc Proven Terrain 1 › Proven
+              Tenneville Sports v Vaux-Noville  0-1 pen (1-1, 0-0)   @ Stade Jean-Claude Genin › Tenneville
+              Trois Frontières v Aubel II  5-1   @ Centre sportif et culturel de Gemmenich › Plombières
+              Waanrode v Sint-Lenaarts  0-5   @ Steenberg Terrain 1 › Waanrode
+              Morlanwelz v SG-Tertre-Hautrage  3-1   @ Stade Rue de la Mailaise › Morlanwelz
+              Meux II v Onhaye  0-4   @ Stade des Vert et Blanc › Meux
+              Courcelles v Walcourt  5-0   @ Stade Principal › Courcelles
+              Eendracht Henis v Gravelo  1-3   @ Eendracht Henis Terrain 1 › Riksingen
+              Erpion v Linden  1-6   @ Terrain du EC Erpion › Erpion
+              Grimbie v Eendracht Termien  2-9   @ Terrain Grimbie 69 › Maasmechelen
+              Roeselare Daisel v Blankenberge  0-1 pen (1-1, 0-0)   @ Stadion Schiervelde › Roulers
+              Rutten v Eendracht Maasmechelen  1-7   @ Terrein Union FC Rutten › Tongeren
+              SLW Maaseik v Zepperen-Brustem  0-5   @ Stedelijk Sportpark Maaseik Terrain 1 › Maaseik
+    17.00     Munkzwalm v HO Kalken  0-4   @ Terrein Zwalmmeersch › Munkzwalm
+    18.00     Stade Bierbeek v Union Namur  2-1   @ Albert Ombelet Stadion › Bierbeek
+              Lille v Oud-Turnhout  2-0   @ Sportcentrum Balsakker › Lille
+  Wed Aug 4
+    19.30     Nivellois v Harchies-Bernissart  1-2   @ Stade Reine Astrid › Nivelles
+» 2nd Round
+  Sat Aug 7
+    18.00     Lille v Olsa Brakel  0-3   @ Sportcentrum Balsakker › Lille
+              Gullegem v Eppegem  2-0   @ Stadion FC Gullegem › Gullegem
+              Harelbeke v Flavion-Morialmé  3-1   @ Forestiersstadion › Harelbeke
+              Bastogne v Witgoor Sport  1-3   @ Stade des Récollets › Bastogne
+              Renaissance Mons 44 II v Oudenaarde  0-7   @ Stade Charles Tondreau › Mons
+    19.30     Betekom v Diegem Sport  0-3   @ Grote Baan › Betekom
+              Hoogstraten v K. Kontich  2-0   @ Sportcomplex Seminarie › Hoogstraten
+              Nijlen v Berg en Dal  0-3   @ Kfc Nijlen Jeugdter Terrain 2 › Nijlen
+              Ninove v Berlaar-Heikant  4-0   @ Stadion De Kloppers › Meerbeeke
+              Olympia Wijgmaal v Zwarte Leeuw  0-1 pen (1-1, 0-0)   @ Complex Pastoor Bellonstraat › Wijgmaal
+    20.00     Racing Mechelen v Sint-Job  6-0   @ Oscar Vankesbeeck Stadion › Mechelen
+              Tempo Overijse v Braine  0-1 pen (1-1, 0-0)   @ Begijnhofstadion › Overijse
+              Trois Frontières v Eendracht Wervik  0-7   @ Centre sportif et culturel de Gemmenich › Plombières
+              Tubize v Hoboken  3-0   @ Stade Leburton › Tubize
+    20.30     Morlanwelz v RAAL La Louvière  0-10   @ Stade Communal du Tivoli › La Louvière
+  Sun Aug 8
+    15.00     Gravelo v Hoegaarden-Outgaarden  0-1 pen (1-1, 0-0)   @ RDK Gravelo Terrain A › Buvingen
+              Herseaux v Richelle United  0-5   @ Terrain RUS Herseautoise › Herseaux
+              FC Tilleur v Voorwaarts Zwevezele  2-5   @ Stade de Buraufosse › Saint-Nicolas
+    16.00     Acren-Lessines v Sprimont  1-0 pen (2-2, 0-0)   @ Stade des Camomilles › Deux-Acren
+              Andennais v Racing Waregem  0-1 pen (2-2, 0-0)   @ Stade Julien Pappa › Andenne
+              Ardennen v Eendracht Termien  1-2   @ Terrein Hollebeek › Etikhove
+              Blankenberge v Rumbeke  0-1 pen (0-0, 0-0)   @ Bloso Park › Blankenberge
+              Couvin-Mariembourg v Sint-Lenaarts  1-2   @ Stade du Roi Soleil › Mariembourg
+              Crossing Schaerbeek v Heur Tongeren  0-2   @ Stade Renan › Schaerbeek
+              De Kempen v Vaux-Noville  5-0   @ Staf Janssensstadion › Tielen
+              Diest v HO Kalken  1-0 pen (0-0, 0-0)   @ Stedelijk Sportstadion De Warande › Diest
+              Dikkelvenne v Sart-Bernard  4-0   @ Sportcomplex Marc Gevaert › Dikkelvenne
+              Elene-Grotenberge v Turnhout  1-0   @ Terrain Grotenberge › Grotenberge
+              FC Lebbeke v Wevelgem City  1-0 pen (1-1, 0-0)   @ Sportcomplex Lebbeke › Lebbeke
+              Hades v Wielsbeke  4-2   @ Sportcentrum Kiewit › Hasselt
+              Herstal v Habay-la-Neuve  0-1 pen (1-1, 0-0)   @ Complexe Emile Muraille › Herstal
+              Huy v Marloie Sport  2-0   @ Complexe Sportif Tihange 2 Synthétique › Tihange
+              Jodoigne v Hamoir  1-0 pen (1-1, 0-0)   @ Stade de la Cabouse › Jodoigne
+              KRC Gent v Saint-Josse  2-1   @ PGB-Stadion › Oostakker
+              Kosova Schaerbeek v Hoeilaart  3-0   @ Stade Chazal › Schaarbeek
+              Lauwe v Genappe  3-2   @ Stadion Jan Verhoeve › Lauwe
+              Linden v Cappellen  0-2   @ Boudewijnstadion Terrain 1 › Kessel-Lo
+              Lochristi v Zelzate  0-1 pen (0-0, 0-0)   @ Stadion Bosdreef › Lochristi
+              Lyra-Lierse Berlaar v Jong Zulte  8-2   @ Sportcomplex De Doelvelden › Berlaar
+              Meux v Jeunesse Tamines  1-2   @ Stade des Vert et Blanc › Meux
+              Mormont v Albert Quévy-Mons  0-3   @ Stade Melreux A Terrain 1 › Hotton
+              Onhaye v Sporting Bruxelles  5-2   @ Terrain de Onhaye › Onhaye
+              Oostkamp v Eendracht Aalst  0-1 pen (2-2, 0-0)   @ Complex KSV Oostkamp › Oostkamp
+              Oostnieuwkerke v US Givry  0-2   @ SK Oostnieuwkerke Complex › Oostnieuwkerke
+              Ostiches v Waremme  2-3   @ Stade des Géants › Ath
+              RES Durbuy v Jong Lede  1-2   @ Stade Communal › Barvaux-sur-Ourthe
+              RFC Wetteren v Esperanza Pelt  1-0 pen (0-0, 0-0)   @ Marcel De Kerpelstadion › Wetteren
+              Raeren-Eynatten v Berlare  2-0   @ Terrain de Raeren › Raeren
+              Rebecq v Harchies-Bernissart  10-1   @ Complexe Gobard › Rebecq
+              Ronse v Wezel  1-3   @ Orphale Cruckestadion › Renaix
+              Solières Sport v Ster-Francorchamps II  1-0   @ Château Vert › Huy
+              Sparta Petegem v Standaard Meerbeek  8-0   @ Complex Gaversesteenweg › Deinze
+              Sporting Hasselt v Belœil  6-0   @ Stedelijk Sportstadion › Hasselt
+              Spouwen-Mopertingen v Oppagne-Wéris  4-0   @ Sportpark Katteberg › Bilzen
+              Stockay-Warfusée v Messancy  2-0   @ Terrain rue Joseph Wauters › St-Georges-sur-Meuse
+              Verlaine v Espoir Minerois  3-0   @ Stade des Six Bonniers › Verlaine
+              Warnant v VW Hamme  1-0   @ Complexe sportif › Warnant-Dreye
+              Westhoek v Excelsior Mariakerke  4-1   @ Terrein 1 Kvk Westhoek › Ypres
+              Wolvertem Merchtem v Berchem Sport  2-1   @ Frans Lathouwersstadion › Wolvertem
+              Sint-Niklaas v Londerzeel  0-1 pen (2-2, 0-0)   @ Sportcentrum Meesterstraat › Nieuwkerken-Waas
+              Stade Bierbeek v Oostduinkerke  2-0   @ Albert Ombelet Stadion › Bierbeek
+              Binche v Jette  1-0 pen (0-0, 0-0)   @ Stade Aimé Vachaudez › Binche
+              Snef-Tyber v Bocholt  0-4   @ Terrain Chemin De Maffle › Seneffe
+              Aubel v Toekomst Menen  0-2   @ Stade Jean-Marie Doome › Aubel
+              Rechain v Bornem  1-5   @ Terrain Entente Rechaintoise › Petit-Rechain
+              Bregel Sport v Wellen  1-2   @ Terrain de Bregel Sports › Genk
+              Eendracht Maasmechelen v Ganshoren  0-3   @ Eendracht Maasmechelen Terrain 1 › Maasmechelen
+              Zepperen-Brustem v KFC Eksel  1-2   @ Het Dekken › Sint-Truiden
+              Lorraine Arlon v Schelde Serskamp  1-0   @ Stade du FC Jeunesse Lorraine Arlonaise › Arlon
+              Chevetogne v City Pirates Antwerpen  1-3   @ Terrain de Chevetogne › Chevetogne
+              Denderhoutem v Rochefort  2-4   @ Den Deysel › Haaltert
+              Lokeren-Temse v Crossing Vissenaken  3-0   @ Daknamstadion › Lokeren
+              Diksmuide v Rhodienne-De Hoek  2-0   @ KSV Diksmuide Terrein 1 › Diksmuide
+              Herent v Rapid Symphorinois  2-3   @ De Kempen › Herent
+              Houthulst v Rapid Leest  3-0   @ Kws Houthulst Terrain 1 › Houthulst
+              Ranst v Pepingen-Halle  0-4   @ KFC Ranst Terrain 1 › Ranst
+              Courcelles v Merelbeke  0-2   @ Stade Principal › Courcelles
+              Erpe-Mere United v Aische  1-2   @ Complex Lindekouter › Bambrugge
+    17.00     Houtvenne v Aywaille  4-1   @ Het Kuipje Terrein 6 › Westerlo
+» 3rd Round
+  Sat Aug 14
+    18.00     Hades v De Kempen  1-0   @ Sportcentrum Kiewit › Hasselt
+              Harelbeke v Voorwaarts Zwevezele  5-0   @ Forestiersstadion › Harelbeke
+              Dikkelvenne v Houtvenne  2-0   @ Sportcomplex Marc Gevaert › Dikkelvenne
+    19.30     Mandel United v Habay-la-Neuve  3-0   @ Terrein Kunstgras FC Mu Izegem-Ingelmunster › Izegem
+              Eendracht Wervik v FC Lebbeke  0-2   @ Sportcentrum Virovios Terrein 1 › Wervik
+    20.00     Bocholt v Oudenaarde  0-1   @ Damburgstadion › Bocholt
+              City Pirates Antwerpen v Onhaye  1-3   @ Jef Mermansstadion › Merksem
+              Rochefort v Heur Tongeren  2-1   @ Ciney Terrain 4 › Ciney
+              La Louvière Centre v Lorraine Arlon  0-1 pen (0-0, 0-0)   @ Stade Communal du Tivoli › La Louvière
+              Wezel v Huy  2-1   @ Jeugdcentrum Racing Mol-Wezel › Mol
+    20.30     Rapid Symphorinois v Dender  0-2   @ Stade Charles Tondreau › Mons
+  Sun Aug 15
+    15.00     Ninove v Wolvertem Merchtem  1-0 pen (2-2, 0-0)   @ Stadion De Kloppers › Meerbeeke
+    16.00     Tubize v Patro Eisden  2-4   @ Stade Leburton › Tubize
+              Acren-Lessines v Merelbeke  1-2   @ Stade des Camomilles › Deux-Acren
+              Aische v Solières Sport  6-3   @ Stade René Bertrand › Aische-en-Refail
+              Berg en Dal v Francs Borains  0-1   @ Kattenstadion › Meerhout
+              Cappellen v Bornem  4-1   @ Stadion Jos van Wellen › Kapellen
+              Diest v Warnant  2-1   @ Stedelijk Sportstadion De Warande › Diest
+              Eendracht Aalst v Houthulst  2-0   @ Het Pierre Cornelisstadion › Aalst
+              Eendracht Termien v Rebecq  1-2   @ Terrain 't Heke › Genk
+              Ganshoren v Heist  1-0 pen (2-2, 0-0)   @ Complexe Sportif de Ganshoren › Ganshoren
+              Gullegem v Stockay-Warfusée  2-0   @ Stadion FC Gullegem › Gullegem
+              Jodoigne v Braine  3-1   @ Stade de la Cabouse › Jodoigne
+              Jong Lede v Stade Bierbeek  5-0   @ Sportcomplex Ommegang › Lede
+              Knokke v Verlaine  5-0   @ Stadion Olivier › Knokke-Heist
+              Lauwe v Racing Waregem  2-3   @ Stadion Jan Verhoeve › Lauwe
+              Lyra-Lierse Berlaar v Waremme  3-0   @ Sportcomplex De Doelvelden › Berlaar
+              RFC Wetteren v Toekomst Menen  1-0   @ Marcel De Kerpelstadion › Wetteren
+              Racing Mechelen v Raeren-Eynatten  0-1 pen (1-1, 0-0)   @ Oscar Vankesbeeck Stadion › Mechelen
+              Sint-Lenaarts v RAAL La Louvière  0-3   @ Complexe Houtstraat › Sint-Lenaarts
+              Sporting Hasselt v KRC Gent  1-3   @ Stedelijk Sportstadion › Hasselt
+              Spouwen-Mopertingen v Olsa Brakel  2-1   @ Hereveld Complex A › Bilzen
+              US Givry v Diegem Sport  0-2   @ Complexe US Givry › Flamierge
+              Wellen v Binche  5-1   @ KVK Wellen Sportcomplex › Wellen
+              Westhoek v Pepingen-Halle  2-1   @ Terrein 1 Kvk Westhoek › Ypres
+              Witgoor Sport v Olympic Charleroi  0-1   @ Sportpark De Wouwer › Dessel
+              Zelzate v Tienen  0-3   @ KVV Zelzate A-Complex › Zelzate
+              Zwarte Leeuw v Hoegaarden-Outgaarden  3-0   @ Louis van Roeystadion › Rijkevorsel
+              Dessel Sport v Albert Quévy-Mons  6-0   @ Armand Melis Stadion › Dessel
+              Rupel Boom v Sparta Petegem  2-0   @ Gemeentelijk Parkstadion › Boom
+              Sint-Eloois-Winkel v Elene-Grotenberge  2-0   @ Sportpark Terschueren › Sint-Eloois-Winkel
+              Lokeren-Temse v KFC Eksel  3-0   @ Daknamstadion › Lokeren
+              Diksmuide v URSL Visé  1-2   @ KSV Diksmuide Terrein 1 › Diksmuide
+              Rumbeke v Richelle United  0-3   @ Terrein KSV Rumbeke › Rimbeke
+    19.00     Hoogstraten v Kosova Schaerbeek  6-0   @ Sportcomplex Seminarie › Hoogstraten
+  Tue Aug 17
+    20.00     Thes Sport v Lierse Kempenzonen  2-6   @ Sportcentrum Tessenderlo › Tessenderlo
+  Wed Aug 18
+    19.00     Jeunesse Tamines v Liège  1-5   @ Stade Arthur Michaux › Sambreville
+    19.30     Londerzeel v Excelsior Virton  1-0   @ Burgemeester Albert Lambertsstadion › Londerzeel
+» 4th Round
+  Sat Aug 21
+    19.30     Hades v Lyra-Lierse Berlaar  1-3   @ Sportcentrum Kiewit › Hasselt
+              Hoogstraten v Lorraine Arlon  5-1   @ Sportcomplex Seminarie › Hoogstraten
+    20.00     Onhaye v Jong Lede  4-3   @ Terrain de Onhaye › Onhaye
+              Wellen v Dessel Sport  1-0   @ KVK Wellen Sportcomplex › Wellen
+              Dender v Diest  3-0   @ Van Roystadion › Denderleeuw
+              Patro Eisden v FC Lebbeke  0-1   @ Patro Stadion › Maasmechelen
+              Mandel United v Racing Waregem  2-0   @ Terrein Kunstgras FC Mu Izegem-Ingelmunster › Izegem
+  Sun Aug 22
+    16.00     Cappellen v Rupel Boom  0-2   @ Stadion Jos van Wellen › Kapellen
+              Francs Borains v Londerzeel  2-0   @ Stade Robert Urbain › Boussu
+              Jodoigne v Gullegem  3-1   @ Stade de la Cabouse › Jodoigne
+              KRC Gent v Raeren-Eynatten  4-1   @ PGB-Stadion › Oostakker
+              Knokke v Rochefort  3-0   @ Stadion Olivier › Knokke-Heist
+              Merelbeke v Zwarte Leeuw  1-2   @ Sportpark Moerkensheide › De Pinte
+              Oudenaarde v Eendracht Aalst  0-1   @ Burgemeester Thienpontstadion › Oudenaarde
+              Rebecq v RAAL La Louvière  1-2 aet   @ Complexe Gobard › Rebecq
+              Spouwen-Mopertingen v Wezel  3-0   @ Sportpark Katteberg › Bilzen
+              Tienen v Ganshoren  1-0   @ Stadion Stayen › St.-Trond
+              Voorwaarts Zwevezele v Dikkelvenne  0-2   @ Sportcomplex Zwevezele › Wingene
+              Westhoek v Diegem Sport  1-4   @ Terrein 1 Kvk Westhoek › Ypres
+              Olympic Charleroi v Liège  0-1   @ Stade de la Neuville › Charleroi
+              Sint-Eloois-Winkel v Aische  4-0   @ Sportpark Terschueren › Sint-Eloois-Winkel
+              URSL Visé v Richelle United  2-0 aet   @ Stade de la Cité de l'Oie › Visé
+  Wed Aug 25
+    20.00     Lokeren-Temse v Ninove  1-0   @ Daknamstadion › Lokeren
+              Lierse Kempenzonen v RFC Wetteren  3-0   @ Herman Vanderpoortenstadion › Lier
+» 5th Round
+  Sun Aug 29
+    16.00     Francs Borains v Hoogstraten  3-1 (2-0)   @ Stade Robert Urbain › Boussu
+              Knokke v KRC Gent  3-2 aet (2-2, 2-1)   @ Stadion Olivier › Knokke-Heist
+              Onhaye v Eendracht Aalst  1-0 aet (0-0, 0-0)   @ Terrain de Onhaye › Onhaye
+              RAAL La Louvière v Dikkelvenne  4-2 (3-0)   @ Stade Communal du Tivoli › La Louvière
+              Spouwen-Mopertingen v Zwarte Leeuw  1-0 (0-0)   @ Sportpark Katteberg › Bilzen
+              Tienen v Jodoigne  1-0 (0-0)   @ Stadion Stayen › St.-Trond
+              Sint-Eloois-Winkel v Mandel United  1-0 pen (0-0, 0-0)   @ Sportpark Terschueren › Sint-Eloois-Winkel
+  Sat Sep 4
+    18.00     Dender v Waasland-beveren  1-0 (0-0)   @ Van Roystadion › Denderleeuw
+    19.30     URSL Visé v RWDM  0-1 (0-0)   @ Stade de la Cité de l'Oie › Visé
+    20.00     RFC Wetteren v Rupel Boom  2-0 (0-0)   @ Herman Vanderpoortenstadion › Lier
+  Sun Sep 5
+    16.00     Liège v KVC Westerlo  1-3 (1-2)   @ Stade Rue de la Tonne › Liège
+  Tue Sep 14
+    19.30     Lyra-Lierse Berlaar v Deinze  0-5 (0-3)   @ Sportcomplex De Doelvelden › Berlaar
+    20.00     Royal Excel Mouscron v Wellen  3-1 (2-0)   @ Stade Le Canonnier › Moeskron
+  Wed Sep 15
+    20.00     Lokeren-Temse v Seraing United  0-3 (0-1)   @ Daknamstadion › Lokeren
+              Diegem Sport v Lommel United  2-4 (1-2)   @ Gemeentelijk Sportstadion › Diegem
+  Tue Sep 21
+    20.30     Union St. Gilloise v FC Lebbeke  7-0 (1-0)   @ Stade Joseph Mariën › Brussels
+» Round of 32
+  Tue Oct 26
+    20.00     Oostende v Onhaye  8-1 (4-1)   @ Diaz Arena › Oostende
+    20.30     RWDM v Zulte Waregem  1-2 (1-1)   @ Edmond Machtens-Stadion › Bruxelles
+              KV Mechelen v Union St. Gilloise  2-1 (1-0)   @ AFAS-stadion Achter de Kazerne › Malines
+    20.45     Royal Excel Mouscron v Standard Liege  0-1 (0-1)   @ Stade Le Canonnier › Moeskron
+  Wed Oct 27
+    20.00     Gent v Spouwen-Mopertingen  4-0 (3-0)   @ GHELAMCO-arena › Gent
+              Charleroi v Lommel United  0-1 pen (0-0, 0-0)   @ Stade du Pays de Charleroi › Charleroi
+              Knokke v Kortrijk  1-1 aet   @ Stadion Olivier › Knokke-Heist
+              Dender v AS Eupen  0-1 (0-1)   @ Van Roystadion › Denderleeuw
+              Sint-Eloois-Winkel v Genk  0-6 (0-4)   @ Sportpark Terschueren › Sint-Eloois-Winkel
+              Seraing United v St. Truiden  3-2 aet (2-2, 1-0)   @ Stade du Pairay › Seraing
+    20.30     Francs Borains v Beerschot Wilrijk  0-4 (0-1)   @ Stade Robert Urbain › Boussu
+    20.45     RAAL La Louvière v Anderlecht  1-7 (1-4)   @ Stade Communal du Tivoli › La Louvière
+              Lierse Kempenzonen v OH Leuven  1-2 (0-0)   @ Herman Vanderpoortenstadion › Lier
+              Club Brugge KV v Deinze  3-0 (0-0)   @ Jan Breydelstadion › Brugge
+  Thu Oct 28
+    20.00     Cercle Brugge v Tienen  3-0 (2-0)   @ Jan Breydelstadion › Brugge
+    20.45     KVC Westerlo v Antwerp  2-1 (2-0)   @ Het Kuipje › Westerlo
+» Round of 16
+  Tue Nov 30
+    20.45     Seraing United v Anderlecht  3-4 pen (3-3, 3-3, 2-2)   @ Stade du Pairay › Seraing
+  Wed Dec 1
+    18.00     AS Eupen v Zulte Waregem  3-2 aet (2-2, 0-2)   @ Stadion am Kehrweg › Eupen
+    18.45     KVC Westerlo v OH Leuven  2-3 (1-0)   @ Het Kuipje › Westerlo
+    20.00     Lommel United v Gent  0-2 (0-1)   @ Soevereinstadion › Lommel
+    20.30     KV Mechelen v Cercle Brugge  2-1 aet (1-1, 0-1)   @ AFAS-stadion Achter de Kazerne › Malines
+              Kortrijk v Oostende  1-0 (0-0)   @ Guldensporenstadion › Kortrijk
+    20.45     Genk v Club Brugge KV  3-5 pen (3-3, 3-3, 2-1)   @ Cegeka Arena › Genk
+  Thu Dec 2
+    20.45     Standard Liege v Beerschot Wilrijk  2-0 aet (0-0, 0-0)   @ Stade Maurice Dufrasne › Luik
+» Quarter-finals
+  Wed Dec 22
+    20.00     KV Mechelen v AS Eupen  1-3 (1-0)   @ AFAS-stadion Achter de Kazerne › Malines
+    20.30     Gent v Standard Liege  3-1 (1-0)   @ GHELAMCO-arena › Gent
+  Thu Dec 23
+    18.45     Anderlecht v Kortrijk  3-0 (2-0)   @ Lotto Park › Brussel
+    21.00     Club Brugge KV v OH Leuven  4-1 (2-0)   @ Jan Breydelstadion › Brugge
+» Semi-finals
+  Wed Feb 2 2022
+    20.45     Gent v Club Brugge KV  0-1 (0-0)   @ GHELAMCO-arena › Gent
+  Thu Feb 3
+    20.45     AS Eupen v Anderlecht  2-2 (1-1)   @ Stadion am Kehrweg › Eupen
+  Wed Mar 2
+    20.45     Club Brugge KV v Gent  0-3 (0-2)   @ Jan Breydelstadion › Brugge
+  Thu Mar 3
+    20.45     Anderlecht v AS Eupen  3-1 (2-1)   @ Lotto Park › Brussel
+» Final
+  Mon Apr 18
+    15.00     Gent v Anderlecht  4-3 pen (0-0, 0-0, 0-0)   @ Stade Roi Baudouin › Brussel

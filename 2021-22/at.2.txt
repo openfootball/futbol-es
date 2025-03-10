@@ -12,7 +12,7 @@
   Fri Jul 23
     18.30     Lask Juniors Linz v SV Lafnitz  2-4 (1-3)   @ Raiffeisen Arena › Pasching
               SKU Amstetten v Floridsdorfer AC  1-1 (0-1)   @ Ertl Glas-Stadion › Amstetten
-              Austria Vienna (Am) v Wacker Innsbruck  1-1 (0-1)   @ Generali Arena › Wien
+              Austria Vienna Am v Wacker Innsbruck  1-1 (0-1)   @ Generali Arena › Wien
               SV Horn v SK Vorwarts Steyr  2-1 (1-0)   @ Sparkasse Horn Arena › Horn
   Sat Jul 24
     20.00     FC BW Linz v Dornbirn  2-1 (1-0)   @ Hofmann-Personal Stadion › Linz
@@ -25,7 +25,7 @@
               Grazer AK v SV Horn  1-1 (1-1)   @ Merkur Arena › Graz
               Rapid Wien II v Lask Juniors Linz  0-0 (0-0)   @ Allianz Stadion › Wien
               Wacker Innsbruck v SV Kapfenberg  2-0 (1-0)   @ Tivoli Stadion Tirol › Innsbruck
-    20.25     Floridsdorfer AC v Austria Vienna (Am)  1-2 (0-1)   @ Job Consulting Arena › Wien
+    20.25     Floridsdorfer AC v Austria Vienna Am  1-2 (0-1)   @ Job Consulting Arena › Wien
   Sat Jul 31
     20.00     Dornbirn v SKU Amstetten  0-6 (0-3)   @ Stadion Birkenwiese › Dornbirn
   Sun Aug 1
@@ -38,7 +38,7 @@
     18.30     Austria Lustenau v FC Liefering  2-1 (2-1)   @ Planet Pure Stadion › Lustenau
               SV Kapfenberg v Floridsdorfer AC  1-2 (0-1)   @ Franz-Fekete-Stadion › Kapfenberg
               SKU Amstetten v SK Vorwarts Steyr  3-0 (0-0)   @ Ertl Glas-Stadion › Amstetten
-              Austria Vienna (Am) v Grazer AK  0-0 (0-0)   @ Generali Arena › Wien
+              Austria Vienna Am v Grazer AK  0-0 (0-0)   @ Generali Arena › Wien
     20.25     FC BW Linz v SKN ST. Polten  1-1 (0-0)   @ Hofmann-Personal Stadion › Linz
   Sat Aug 7
     14.30     Lask Juniors Linz v Dornbirn  5-2 (1-0)   @ Raiffeisen Arena › Pasching
@@ -50,7 +50,7 @@
     18.30     Floridsdorfer AC v Austria Lustenau  3-1 (3-0)   @ Job Consulting Arena › Wien
               FC Liefering v SKU Amstetten  1-1 (0-1)   @ Red Bull Arena › Wals-Siezenheim
               SK Vorwarts Steyr v Wacker Innsbruck  0-1 (0-0)   @ EK Kammerhofer Arena › Steyr
-              Dornbirn v Austria Vienna (Am)  1-1 (0-0)   @ Stadion Birkenwiese › Dornbirn
+              Dornbirn v Austria Vienna Am  1-1 (0-0)   @ Stadion Birkenwiese › Dornbirn
               Grazer AK v Lask Juniors Linz  5-1 (4-1)   @ Merkur Arena › Graz
     20.25     SV Lafnitz v FC BW Linz  3-1 (2-1)   @ Sportplatz Lafnitz › Lafnitz
   Sat Aug 14
@@ -63,7 +63,7 @@
               Floridsdorfer AC v SKN ST. Polten  2-0 (1-0)   @ Job Consulting Arena › Wien
               SKU Amstetten v SV Lafnitz  1-1 (0-1)   @ Ertl Glas-Stadion › Amstetten
               SK Vorwarts Steyr v Lask Juniors Linz  0-0 (0-0)   @ EK Kammerhofer Arena › Steyr
-              Austria Vienna (Am) v FC Liefering  0-2 (0-1)   @ Generali Arena › Wien
+              Austria Vienna Am v FC Liefering  0-2 (0-1)   @ Generali Arena › Wien
     20.25     Austria Lustenau v Wacker Innsbruck  2-1 (1-1)   @ Planet Pure Stadion › Lustenau
   Sat Aug 21
     14.30     SV Horn v Dornbirn  3-1 (0-0)   @ Sparkasse Horn Arena › Horn
@@ -71,7 +71,7 @@
     10.30     SV Kapfenberg v Grazer AK  1-2 (1-2)   @ Franz-Fekete-Stadion › Kapfenberg
 » Regular Season - 6
   Fri Aug 27
-    18.30     SKN ST. Polten v Austria Vienna (Am)  2-0 (2-0)   @ NV ARENA › St. Pölten
+    18.30     SKN ST. Polten v Austria Vienna Am  2-0 (2-0)   @ NV ARENA › St. Pölten
               FC Liefering v Floridsdorfer AC  0-0 (0-0)   @ Red Bull Arena › Wals-Siezenheim
               SV Lafnitz v SV Horn  5-1 (2-1)   @ Sportplatz Lafnitz › Lafnitz
               Lask Juniors Linz v FC BW Linz  2-2 (1-1)   @ Raiffeisen Arena › Pasching
@@ -86,7 +86,7 @@
     18.30     Floridsdorfer AC v Wacker Innsbruck  1-3 (1-2)   @ Job Consulting Arena › Wien
               SV Horn v Lask Juniors Linz  1-1 (0-1)   @ Sparkasse Horn Arena › Horn
               SV Kapfenberg v SV Lafnitz  1-0 (0-0)   @ Franz-Fekete-Stadion › Kapfenberg
-              Austria Vienna (Am) v SK Vorwarts Steyr  2-0 (0-0)   @ Generali Arena › Wien
+              Austria Vienna Am v SK Vorwarts Steyr  2-0 (0-0)   @ Generali Arena › Wien
     20.25     FC BW Linz v Grazer AK  1-0 (1-0)   @ Hofmann-Personal Stadion › Linz
   Sat Sep 11
     14.30     Austria Lustenau v SKU Amstetten  3-1 (0-0)   @ Planet Pure Stadion › Lustenau
@@ -98,7 +98,7 @@
     18.10     Wacker Innsbruck v FC Liefering  2-2 (1-2)   @ Tivoli Stadion Tirol › Innsbruck
     18.30     SV Horn v SV Kapfenberg  0-1 (0-1)   @ Sparkasse Horn Arena › Horn
               SV Lafnitz v SKN ST. Polten  1-0 (0-0)   @ Sportplatz Lafnitz › Lafnitz
-              Lask Juniors Linz v Austria Vienna (Am)  2-2 (0-1)   @ Raiffeisen Arena › Pasching
+              Lask Juniors Linz v Austria Vienna Am  2-2 (0-1)   @ Raiffeisen Arena › Pasching
               SKU Amstetten v FC BW Linz  1-0 (1-0)   @ Ertl Glas-Stadion › Amstetten
   Sat Sep 18
     14.30     Dornbirn v Floridsdorfer AC  0-2 (0-0)   @ Stadion Birkenwiese › Dornbirn
@@ -116,13 +116,13 @@
     14.30     Floridsdorfer AC v Rapid Wien II  0-0 (0-0)   @ Job Consulting Arena › Wien
   Sun Sep 26
     10.30     Grazer AK v Wacker Innsbruck  3-1 (1-1)   @ Merkur Arena › Graz
-              Austria Vienna (Am) v SV Lafnitz  0-1 (0-1)   @ Generali Arena › Wien
+              Austria Vienna Am v SV Lafnitz  0-1 (0-1)   @ Generali Arena › Wien
 » Regular Season - 10
   Fri Oct 1
     18.30     Lask Juniors Linz v SKN ST. Polten  1-3 (0-1)   @ Raiffeisen Arena › Pasching
               SKU Amstetten v SV Kapfenberg  3-0 (1-0)   @ Ertl Glas-Stadion › Amstetten
               SK Vorwarts Steyr v Rapid Wien II  2-5 (1-2)   @ EK Kammerhofer Arena › Steyr
-              Austria Vienna (Am) v SV Horn  1-3 (0-1)   @ Generali Arena › Wien
+              Austria Vienna Am v SV Horn  1-3 (0-1)   @ Generali Arena › Wien
     20.25     Dornbirn v Austria Lustenau  0-2 (0-1)   @ Stadion Birkenwiese › Dornbirn
   Sat Oct 2
     14.30     SV Lafnitz v FC Liefering  1-3 (1-2)   @ Sportplatz Lafnitz › Lafnitz
@@ -140,12 +140,12 @@
               Rapid Wien II v Wacker Innsbruck  0-3 (0-1)   @ Allianz Stadion › Wien
               SV Horn v SKU Amstetten  0-3 (0-2)   @ Sparkasse Horn Arena › Horn
   Sun Oct 17
-    10.30     FC BW Linz v Austria Vienna (Am)  3-1 (1-1)   @ Hofmann-Personal Stadion › Linz
+    10.30     FC BW Linz v Austria Vienna Am  3-1 (1-1)   @ Hofmann-Personal Stadion › Linz
 » Regular Season - 12
   Fri Oct 22
     18.30     Wacker Innsbruck v Lask Juniors Linz  5-1 (4-0)   @ Tivoli Stadion Tirol › Innsbruck
               Floridsdorfer AC v SV Horn  3-0 (1-0)   @ Job Consulting Arena › Wien
-              SKU Amstetten v Austria Vienna (Am)  2-0 (0-0)   @ Ertl Glas-Stadion › Amstetten
+              SKU Amstetten v Austria Vienna Am  2-0 (0-0)   @ Ertl Glas-Stadion › Amstetten
               SK Vorwarts Steyr v SV Lafnitz  1-3 (1-2)   @ EK Kammerhofer Arena › Steyr
     20.25     Austria Lustenau v FC BW Linz  0-1 (0-0)   @ Planet Pure Stadion › Lustenau
   Sat Oct 23
@@ -161,7 +161,7 @@
   Sat Oct 30
     12.00     FC BW Linz v Floridsdorfer AC  0-2 (0-0)   @ Hofmann-Personal Stadion › Linz
     14.30     Dornbirn v Grazer AK  1-2 (0-1)   @ Stadion Birkenwiese › Dornbirn
-              Austria Vienna (Am) v SV Kapfenberg  1-3 (1-2)   @ Generali Arena › Wien
+              Austria Vienna Am v SV Kapfenberg  1-3 (1-2)   @ Generali Arena › Wien
   Sun Oct 31
     10.30     Lask Juniors Linz v SKU Amstetten  0-5 (0-1)   @ Raiffeisen Arena › Pasching
     12.30     SKN ST. Polten v Austria Lustenau  1-1 (0-0)   @ NV ARENA › St. Pölten
@@ -176,14 +176,14 @@
     14.30     SK Vorwarts Steyr v Dornbirn  4-1 (2-1)   @ EK Kammerhofer Arena › Steyr
               FC Liefering v FC BW Linz  0-0 (0-0)   @ Red Bull Arena › Wals-Siezenheim
   Sun Nov 7
-    10.30     Rapid Wien II v Austria Vienna (Am)  2-1 (0-0)   @ Allianz Stadion › Wien
+    10.30     Rapid Wien II v Austria Vienna Am  2-1 (0-0)   @ Allianz Stadion › Wien
 » Regular Season - 15
   Fri Nov 19
     18.30     SKN ST. Polten v SK Vorwarts Steyr  1-1 (0-1)   @ NV ARENA › St. Pölten
               SV Horn v FC Liefering  2-3 (1-0)   @ Sparkasse Horn Arena › Horn
               Lask Juniors Linz v Floridsdorfer AC  0-1 (0-0)   @ Raiffeisen Arena › Pasching
               SKU Amstetten v Rapid Wien II  5-2 (1-2)   @ Ertl Glas-Stadion › Amstetten
-    20.25     Austria Vienna (Am) v Austria Lustenau  1-4 (1-1)   @ Generali Arena › Wien
+    20.25     Austria Vienna Am v Austria Lustenau  1-4 (1-1)   @ Generali Arena › Wien
   Sat Nov 20
     14.30     Dornbirn v Wacker Innsbruck  1-0 (0-0)   @ Stadion Birkenwiese › Dornbirn
               FC BW Linz v SV Kapfenberg  2-2 (1-2)   @ Hofmann-Personal Stadion › Linz
@@ -191,7 +191,7 @@
     10.30     SV Lafnitz v Grazer AK  1-4 (1-1)   @ Sportplatz Lafnitz › Lafnitz
 » Regular Season - 16
   Fri Nov 26
-    18.30     Wacker Innsbruck v Austria Vienna (Am)  1-4 (1-1)   @ Tivoli Stadion Tirol › Innsbruck
+    18.30     Wacker Innsbruck v Austria Vienna Am  1-4 (1-1)   @ Tivoli Stadion Tirol › Innsbruck
               SV Lafnitz v Lask Juniors Linz  2-2 (0-2)   @ Sportplatz Lafnitz › Lafnitz
               Grazer AK v Austria Lustenau  0-0 (0-0)   @ Merkur Arena › Graz
     20.25     Floridsdorfer AC v SKU Amstetten  3-0 (2-0)   @ Job Consulting Arena › Wien
@@ -205,7 +205,7 @@
   Fri Feb 18
     18.30     SV Horn v Grazer AK  0-2 (0-1)   @ Sparkasse Horn Arena › Horn
               Lask Juniors Linz v Rapid Wien II  1-3 (0-1)   @ Raiffeisen Arena › Pasching
-              Austria Vienna (Am) v Floridsdorfer AC  0-2 (0-1)   @ Generali Arena › Wien
+              Austria Vienna Am v Floridsdorfer AC  0-2 (0-1)   @ Generali Arena › Wien
   Sat Feb 19
     14.30     SV Kapfenberg v Wacker Innsbruck  3-2 (2-2)   @ Franz-Fekete-Stadion › Kapfenberg
               SKU Amstetten v Dornbirn  4-0 (3-0)   @ Ertl Glas-Stadion › Amstetten
@@ -217,7 +217,7 @@
 » Regular Season - 18
   Fri Feb 25
     18.30     SKN ST. Polten v FC BW Linz  1-1 (0-1)   @ NV ARENA › St. Pölten
-              Grazer AK v Austria Vienna (Am)  1-3 (0-0)   @ Merkur Arena › Graz
+              Grazer AK v Austria Vienna Am  1-3 (0-0)   @ Merkur Arena › Graz
               Rapid Wien II v SV Horn  3-2 (2-1)   @ Allianz Stadion › Wien
     20.25     FC Liefering v Austria Lustenau  2-5 (0-1)   @ Red Bull Arena › Wals-Siezenheim
   Sat Feb 26
@@ -232,7 +232,7 @@
               SV Kapfenberg v Rapid Wien II  1-2 (0-1)   @ Franz-Fekete-Stadion › Kapfenberg
               Lask Juniors Linz v Grazer AK  0-4 (0-3)   @ Raiffeisen Arena › Pasching
   Sat Mar 5
-    14.30     Austria Vienna (Am) v Dornbirn  1-2 (0-1)   @ Generali Arena › Wien
+    14.30     Austria Vienna Am v Dornbirn  1-2 (0-1)   @ Generali Arena › Wien
               SKU Amstetten v FC Liefering  2-2 (1-1)   @ Ertl Glas-Stadion › Amstetten
   Sun Mar 6
     10.30     FC BW Linz v SV Lafnitz  3-0 (1-0)   @ Hofmann-Personal Stadion › Linz
@@ -241,7 +241,7 @@
 » Regular Season - 20
   Fri Mar 11
     18.10     Grazer AK v SV Kapfenberg  0-0 (0-0)   @ Merkur Arena › Graz
-    18.30     FC Liefering v Austria Vienna (Am)  0-0 (0-0)   @ Red Bull Arena › Wals-Siezenheim
+    18.30     FC Liefering v Austria Vienna Am  0-0 (0-0)   @ Red Bull Arena › Wals-Siezenheim
               SV Lafnitz v SKU Amstetten  2-0 (2-0)   @ Sportplatz Lafnitz › Lafnitz
               Lask Juniors Linz v SK Vorwarts Steyr  3-1 (1-0)   @ Raiffeisen Arena › Pasching
               Rapid Wien II v FC BW Linz  0-3 (0-0)   @ Allianz Stadion › Wien
@@ -258,7 +258,7 @@
     18.30     SV Horn v SV Lafnitz  2-1 (1-0)   @ Sparkasse Horn Arena › Horn
               Austria Lustenau v Rapid Wien II  1-1 (0-1)   @ Planet Pure Stadion › Lustenau
               SK Vorwarts Steyr v Grazer AK  3-2 (2-1)   @ EK Kammerhofer Arena › Steyr
-              Austria Vienna (Am) v SKN ST. Polten  0-0 (0-0)   @ Generali Arena › Wien
+              Austria Vienna Am v SKN ST. Polten  0-0 (0-0)   @ Generali Arena › Wien
     20.25     SKU Amstetten v Wacker Innsbruck  1-0 (1-0)   @ Ertl Glas-Stadion › Amstetten
   Sat Mar 19
     14.30     SV Kapfenberg v Dornbirn  2-0 (1-0)   @ Franz-Fekete-Stadion › Kapfenberg
@@ -271,7 +271,7 @@
               SV Lafnitz v SV Kapfenberg  3-2 (2-2)   @ Sportplatz Lafnitz › Lafnitz
               Lask Juniors Linz v SV Horn  2-2 (0-1)   @ Raiffeisen Arena › Pasching
               SKU Amstetten v Austria Lustenau  0-2 (0-1)   @ Ertl Glas-Stadion › Amstetten
-              SK Vorwarts Steyr v Austria Vienna (Am)  1-0 (0-0)   @ EK Kammerhofer Arena › Steyr
+              SK Vorwarts Steyr v Austria Vienna Am  1-0 (0-0)   @ EK Kammerhofer Arena › Steyr
     20.25     Grazer AK v FC BW Linz  1-0 (0-0)   @ Merkur Arena › Graz
   Sun Apr 3
     10.30     Rapid Wien II v FC Liefering  2-2 (0-1)   @ Allianz Stadion › Wien
@@ -280,7 +280,7 @@
   Fri Apr 8
     18.30     FC Liefering v Wacker Innsbruck  0-1 (0-1)   @ Red Bull Arena › Wals-Siezenheim
               SV Kapfenberg v SV Horn  0-0 (0-0)   @ Franz-Fekete-Stadion › Kapfenberg
-              Austria Vienna (Am) v Lask Juniors Linz  4-0 (2-0)   @ Generali Arena › Wien
+              Austria Vienna Am v Lask Juniors Linz  4-0 (2-0)   @ Generali Arena › Wien
               Grazer AK v Rapid Wien II  2-2 (2-1)   @ Merkur Arena › Graz
               FC BW Linz v SKU Amstetten  5-2 (2-2)   @ Hofmann-Personal Stadion › Linz
   Sat Apr 9
@@ -293,7 +293,7 @@
     18.10     SKU Amstetten v SKN ST. Polten  2-1 (0-0)   @ Ertl Glas-Stadion › Amstetten
     18.30     Wacker Innsbruck v Grazer AK  1-1 (0-1)   @ Tivoli Stadion Tirol › Innsbruck
               SV Horn v FC BW Linz  2-1 (1-0)   @ Sparkasse Horn Arena › Horn
-              SV Lafnitz v Austria Vienna (Am)  1-0 (1-0)   @ Sportplatz Lafnitz › Lafnitz
+              SV Lafnitz v Austria Vienna Am  1-0 (1-0)   @ Sportplatz Lafnitz › Lafnitz
               Lask Juniors Linz v Austria Lustenau  0-1 (0-0)   @ Raiffeisen Arena › Pasching
               SK Vorwarts Steyr v SV Kapfenberg  3-1 (0-1)   @ EK Kammerhofer Arena › Steyr
               Dornbirn v FC Liefering  1-4 (0-1)   @ Stadion Birkenwiese › Dornbirn
@@ -307,13 +307,13 @@
               Rapid Wien II v SK Vorwarts Steyr  2-2 (0-1)   @ Allianz Stadion › Wien
     16.00     SKN ST. Polten v Lask Juniors Linz  2-1 (0-1)   @ NV ARENA › St. Pölten
     16.45     Floridsdorfer AC v Grazer AK  2-1 (0-1)   @ Job Consulting Arena › Wien
-    17.00     SV Horn v Austria Vienna (Am)  0-1 (0-0)   @ Sparkasse Horn Arena › Horn
+    17.00     SV Horn v Austria Vienna Am  0-1 (0-0)   @ Sparkasse Horn Arena › Horn
 » Regular Season - 26
   Fri Apr 22
     18.10     SV Kapfenberg v Austria Lustenau  1-2 (1-0)   @ Franz-Fekete-Stadion › Kapfenberg
     18.30     Wacker Innsbruck v Rapid Wien II  2-1 (0-0)   @ Tivoli Stadion Tirol › Innsbruck
               SKU Amstetten v SV Horn  0-0 (0-0)   @ Ertl Glas-Stadion › Amstetten
-              Austria Vienna (Am) v FC BW Linz  1-4 (0-1)   @ Generali Arena › Wien
+              Austria Vienna Am v FC BW Linz  1-4 (0-1)   @ Generali Arena › Wien
     20.25     SK Vorwarts Steyr v Floridsdorfer AC  1-0 (1-0)   @ EK Kammerhofer Arena › Steyr
   Sat Apr 23
     14.30     Dornbirn v SV Lafnitz  1-4 (0-2)   @ Stadion Birkenwiese › Dornbirn
@@ -326,7 +326,7 @@
               FC Liefering v Grazer AK  1-1 (1-0)   @ Red Bull Arena › Wals-Siezenheim
               SV Lafnitz v SK Vorwarts Steyr  1-0 (1-0)   @ Sportplatz Lafnitz › Lafnitz
               Lask Juniors Linz v Wacker Innsbruck  3-3 (0-1)   @ Raiffeisen Arena › Pasching
-              Austria Vienna (Am) v SKU Amstetten  0-5 (0-2)   @ Generali Arena › Wien
+              Austria Vienna Am v SKU Amstetten  0-5 (0-2)   @ Generali Arena › Wien
   Sat Apr 30
     14.30     Dornbirn v Rapid Wien II  2-1 (1-1)   @ Stadion Birkenwiese › Dornbirn
               FC BW Linz v Austria Lustenau  1-1 (1-0)   @ Hofmann-Personal Stadion › Linz
@@ -336,7 +336,7 @@
 » Regular Season - 28
   Fri May 6
     18.30     Wacker Innsbruck v SV Horn  2-3 (1-1)   @ Tivoli Stadion Tirol › Innsbruck
-              SV Kapfenberg v Austria Vienna (Am)  5-1 (4-1)   @ Franz-Fekete-Stadion › Kapfenberg
+              SV Kapfenberg v Austria Vienna Am  5-1 (4-1)   @ Franz-Fekete-Stadion › Kapfenberg
               SKU Amstetten v Lask Juniors Linz  0-1 (0-0)   @ Ertl Glas-Stadion › Amstetten
               SK Vorwarts Steyr v FC Liefering  2-1 (2-0)   @ EK Kammerhofer Arena › Steyr
               Rapid Wien II v SV Lafnitz  0-3 (0-1)   @ Allianz Stadion › Wien
@@ -353,12 +353,12 @@
               SV Lafnitz v Floridsdorfer AC  1-0 (1-0)   @ Sportplatz Lafnitz › Lafnitz
               Lask Juniors Linz v SV Kapfenberg  1-1 (0-1)   @ Raiffeisen Arena › Pasching
               SKU Amstetten v Grazer AK  3-0 (0-0)   @ Ertl Glas-Stadion › Amstetten
-              Austria Vienna (Am) v Rapid Wien II  3-3 (2-3)   @ Generali Arena › Wien
+              Austria Vienna Am v Rapid Wien II  3-3 (2-3)   @ Generali Arena › Wien
               Dornbirn v SK Vorwarts Steyr  2-3 (1-1)   @ Stadion Birkenwiese › Dornbirn
 » Regular Season - 30
   Sun May 22
     17.00     Floridsdorfer AC v Lask Juniors Linz  3-1 (1-1)   @ Job Consulting Arena › Wien
-              Austria Lustenau v Austria Vienna (Am)  4-0 (3-0)   @ Planet Pure Stadion › Lustenau
+              Austria Lustenau v Austria Vienna Am  4-0 (3-0)   @ Planet Pure Stadion › Lustenau
               FC Liefering v SV Horn  4-1 (3-0)   @ DAS.GOLDBERG Stadion › Grödig
               SV Kapfenberg v FC BW Linz  0-0 (0-0)   @ Franz-Fekete-Stadion › Kapfenberg
               SK Vorwarts Steyr v SKN ST. Polten  2-0 (0-0)   @ EK Kammerhofer Arena › Steyr
