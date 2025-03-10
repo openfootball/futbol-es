@@ -276,7 +276,7 @@
               Real Betis (ESP) v Eintracht Frankfurt (GER)  1-2 (1-2)   @ Estadio Benito Villamarín › Sevilla
   Thu Mar 10
     18.45     Sevilla (ESP) v West Ham (ENG)  1-0 (0-0)   @ Estadio Ramón Sánchez Pizjuán › Sevilla
-              RB Leipzig (GER) v Spartak Moscow (RUS)  [walkover]   @ Red Bull Arena › Leipzig
+              RB Leipzig (GER) v Spartak Moscow (RUS)  [w/o]   @ Red Bull Arena › Leipzig
     21.00     Atalanta (ITA) v Bayer Leverkusen (GER)  3-2 (2-1)   @ Gewiss Stadium › Bergamo
               Barcelona (ESP) v Galatasaray (TUR)  0-0 (0-0)   @ Camp Nou › Barcelona
               SC Braga (POR) v Monaco (FRA)  2-0 (1-0)   @ Estádio Municipal de Braga › Braga
@@ -289,7 +289,7 @@
     21.00     Lyon (FRA) v FC Porto (POR)  1-1 (1-1)   @ Groupama Stadium › Décines-Charpieu
               Eintracht Frankfurt (GER) v Real Betis (ESP)  1-1 aet (0-1, 0-0)   @ Deutsche Bank Park › Frankfurt am Main
               West Ham (ENG) v Sevilla (ESP)  2-0 aet (1-0, 1-0)   @ London Stadium › London
-              Spartak Moscow (RUS) v RB Leipzig (GER)  [walkover]
+              Spartak Moscow (RUS) v RB Leipzig (GER)  [w/o]
 » Quarter-finals
   Thu Apr 7
     18.45     RB Leipzig (GER) v Atalanta (ITA)  1-1 (0-1)   @ Red Bull Arena › Leipzig
